@@ -13,7 +13,7 @@ public class CalcTest {
         Assert.assertEquals(Calc.add(2, 2), 4);
     }
 
-    @Test(enabled = true, groups = {"sub","all"}, priority=1)
+    @Test(enabled = true, groups = {"subtract","all"}, priority=1)
     public void test_subtract() {
         Assert.assertEquals(Calc.subtract(4, 2), 2);
     }
