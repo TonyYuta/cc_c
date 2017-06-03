@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="cc_c">
-	<test name="cc_c" preserve-order="true">
+<suite name="Calculator">
+	<test name="Calculator" preserve-order="true">
 		<parameter name="report" value="surefire" />
 		<classes>
 			<class name="core.CalcTest" />
