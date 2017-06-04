@@ -100,11 +100,11 @@
               <testFailureIgnore>true</testFailureIgnore>
 
 
-<!--
+
 
               <argLine>${surefireArgLine}</argLine>
 
--->
+
 
 
             </configuration>
